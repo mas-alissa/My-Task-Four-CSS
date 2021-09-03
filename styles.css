@@ -1,0 +1,27 @@
+body {
+  color: cadetblue;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.black-border {
+  border: 5px solid black;
+}
+
+#green-background {
+  background-color: green;
+  color: white;
+  border: 5px solid black;
+}
+
+#green-background li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+a {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: cursive;
+}
